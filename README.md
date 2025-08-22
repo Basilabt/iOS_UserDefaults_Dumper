@@ -35,7 +35,7 @@ A simple Python script to dump the contents of `UserDefaults` from iOS applicati
 
 
 # 2. Navigate to the project directory
-  > cd Script
+  > cd iOS_UserDefualts_Dumper/Script
 
 # 3. Run the tool
   > python3 main
