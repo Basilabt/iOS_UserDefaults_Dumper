@@ -2,7 +2,7 @@
 
 # BAT UserDefault Dumper
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Basilabt/Wi-Fi_Adapter_MAC_Changer/blob/main/LICENSE.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Basilabt/iOS_UserDefualts_Dumper/blob/main/LICENSE)
 [![Developer](https://img.shields.io/badge/Developer-Basilabt-crimson)](https://github.com/Basilabt)
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen)
 ![Language](https://img.shields.io/badge/language-Python-blue)
