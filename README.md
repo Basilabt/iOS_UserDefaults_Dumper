@@ -31,7 +31,7 @@ A simple Python script to dump the contents of `UserDefaults` from iOS applicati
 
 ```
 # 1. Clone the repository
-  > git clone https://github.com/Basilabt/Wi-Fi_Adapter_MAC_Changer/tree/main/MAC_Changer_Tool
+  > git clone https://github.com/Basilabt/iOS_UserDefualts_Dumper
 
 
 # 2. Navigate to the project directory
